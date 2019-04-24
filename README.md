@@ -30,10 +30,8 @@ A light weighted decoder design for semantic segmentation, [implement is under t
 <br/><br/>
 
 ## Super Resolution
-### VDSR, EDSR, DCRN, SubPixelCNN, SRCNN, FSRCNN, SRGAN, DBPN
-[[code]](https://github.com/icpm/super-resolution)
-### ESRGAN, SFTGAN
-[[code]](https://github.com/xinntao/BasicSR)
+### VDSR, EDSR, DCRN, SubPixelCNN, SRCNN, FSRCNN, SRGAN, DBPN [[code]](https://github.com/icpm/super-resolution)
+### ESRGAN, SFTGAN [[code]](https://github.com/xinntao/BasicSR)
 ### Contextual Loss [[code]](https://github.com/roimehrez/contextualLoss) [[paper]](https://arxiv.org/abs/1803.04626)
 <br/><br/>
 
