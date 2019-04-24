@@ -28,6 +28,7 @@ This inculdes fake weights/output quantization
 
 ## Various Detectors
 ### Deep Learning Object Detection [[repo]](https://github.com/hoya012/deep_learning_object_detection)
+### SSD: Single Shot MultiBox Detector [[code]](https://github.com/amdegroot/ssd.pytorch) [[paper]](https://github.com/amdegroot/ssd.pytorch)
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
