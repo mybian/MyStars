@@ -47,8 +47,8 @@ A light weighted decoder design for semantic segmentation, [implement is under t
 ### Rethinking the Value of Network Pruning
 This work reproduces several pruning methods, and conveys that weight inherit may be not necessary. [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning) [[paper]](https://arxiv.org/pdf/1810.05270.pdf)
 ### PRUNING CONVOLUTIONAL NEURAL NETWORKS FOR RESOURCE EFFICIENT INFERENCE
-This method works well in practice. [[blog]](https://jacobgil.github.io/deeplearning/pruning-deep-learning)[[paper]](https://arxiv.org/pdf/1611.06440.pdf)
-The code compresses two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch)， the whole implementation is under [[code]]()
+This method works well in my practice. [[blog]](https://jacobgil.github.io/deeplearning/pruning-deep-learning)[[paper]](https://arxiv.org/pdf/1611.06440.pdf)
+The code compresses two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch)， the whole implementation is under this [repo]()
 ### Sparse Structure Selection [[code]](https://github.com/huangzehao/sparse-structure-selection) [[paper]](https://arxiv.org/pdf/1707.01213.pdf)
 ### Cascaded Projection [[paper]](https://arxiv.org/pdf/1903.04988.pdf)
 This paper treat weights as matrix projection
