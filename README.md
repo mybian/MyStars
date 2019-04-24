@@ -37,8 +37,8 @@ This inculdes fake weights/output quantization
 ## Light Weighted Models
 ### ShuffleNet [[code]](https://github.com/jaxony/ShuffleNet) [[paper]](https://arxiv.org/abs/1707.01083)
 ### LightCNN [[code]](https://github.com/AlfredXiangWu/LightCNN#updates)  [[paper]](https://arxiv.org/abs/1511.02683)
-### RefineNet [[paper]](https://arxiv.org/pdf/1810.03272.pdf)
-A light weighted decoder design for semantic segmentation, implement is under [this repo]()
+### RefineNet [[impl]]()[[paper]](https://arxiv.org/pdf/1810.03272.pdf)
+A light weighted decoder design for semantic segmentation
 <br/><br/>
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
@@ -73,7 +73,7 @@ A light weighted decoder design for semantic segmentation, implement is under [t
 This work reproduces several pruning methods, and conveys that weight inherit may be not necessary. [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning) [[paper]](https://arxiv.org/pdf/1810.05270.pdf)
 ### Pruning Convolutional Neural Networks For Resource Efficient Inference
 This method works well in my practice. [[blog]](https://jacobgil.github.io/deeplearning/pruning-deep-learning)[[paper]](https://arxiv.org/pdf/1611.06440.pdf)
-The code compresses two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch)， the whole implementation is under [this repo]()
+The code compresses two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch)， the whole [implementation]()
 ### Sparse Structure Selection [[code]](https://github.com/huangzehao/sparse-structure-selection) [[paper]](https://arxiv.org/pdf/1707.01213.pdf)
 ### Cascaded Projection [[paper]](https://arxiv.org/pdf/1903.04988.pdf)
 This paper treat weights as matrix projection
