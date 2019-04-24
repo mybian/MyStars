@@ -100,6 +100,10 @@ This repo includes both [tempretured softmax](https://arxiv.org/abs/1503.02531) 
 ### Deep Compression [[paper]](https://arxiv.org/abs/1510.00149)
 <br/><br/>
 
-## 
+## Self Implmentations
+### RefineNet Decoder
+### Deep Compression
+### Network Sniffer
+### Pruned SSD
 
 
