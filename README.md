@@ -1,4 +1,4 @@
-# A summary of what I have learnt from
+# Memo
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
@@ -71,7 +71,7 @@ A light weighted decoder design for semantic segmentation, [implement is under t
 ## Network Pruning
 ### Rethinking the Value of Network Pruning
 This work reproduces several pruning methods, and conveys that weight inherit may be not necessary. [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning) [[paper]](https://arxiv.org/pdf/1810.05270.pdf)
-### PRUNING CONVOLUTIONAL NEURAL NETWORKS FOR RESOURCE EFFICIENT INFERENCE
+### Pruning Convolutional Neural Networks For Resource Efficient Inference
 This method works well in my practice. [[blog]](https://jacobgil.github.io/deeplearning/pruning-deep-learning)[[paper]](https://arxiv.org/pdf/1611.06440.pdf)
 The code compresses two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch)， the whole implementation is under this [repo]()
 ### Sparse Structure Selection [[code]](https://github.com/huangzehao/sparse-structure-selection) [[paper]](https://arxiv.org/pdf/1707.01213.pdf)
