@@ -40,6 +40,7 @@ This inculdes fake weights/output quantization
 ### RefineNet [[paper]](https://arxiv.org/pdf/1810.03272.pdf)
 A light weighted decoder design for semantic segmentation, [implement is under this repo]()
 <br/><br/>
+<br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
@@ -87,6 +88,7 @@ This paper treat weights as matrix projection
 ## Knowledge Distll
 ### Attention transfer [[code]](https://github.com/szagoruyko/attention-transfer) [[paper]](https://arxiv.org/abs/1612.03928)
 This repo includes both [softmax](https://arxiv.org/abs/1503.02531) & attention transfer dsitlling methods
+<br/><br/>
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
