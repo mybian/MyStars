@@ -3,7 +3,7 @@
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
-## Miscellaneous
+## <span style="color:red">Miscellaneous</span>
 ### How to merge bn layers [[code]](https://github.com/zym1119/Merge_BN)
 Merge bn layers into conv/linear, which could slightly speedup models
 ### Pytorch playground [[code]](https://github.com/aaron-xichen/pytorch-playground)
