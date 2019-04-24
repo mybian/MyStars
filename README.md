@@ -12,4 +12,4 @@ This inculdes fake weights/output quantization
 ### Supervision By Registration [[code]](https://github.com/facebookresearch/supervision-by-registration) [[paper]](http://xuanyidong.com/pdf/0191.pdf)
 
 ## Various Detectors
-# Deep Learning Object Detection [[repo]](https://github.com/hoya012/deep_learning_object_detection)
+### Deep Learning Object Detection [[repo]](https://github.com/hoya012/deep_learning_object_detection)
