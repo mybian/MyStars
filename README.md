@@ -72,9 +72,9 @@ A light weighted decoder design for semantic segmentation
 ## Network Pruning
 ### Rethinking the Value of Network Pruning [[paper]](https://arxiv.org/pdf/1810.05270.pdf)
 This work reproduces several pruning methods, and conveys that weight inherit may be not necessary. [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning)
-### Pruning Convolutional Neural Networks For Resource Efficient Inference [impl]()
+### Pruning Convolutional Neural Networks For Resource Efficient Inference [[impl]]()
 This method works well in my practice. [[blog]](https://jacobgil.github.io/deeplearning/pruning-deep-learning)[[paper]](https://arxiv.org/pdf/1611.06440.pdf)
-The code compresses two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch).
+The code consist of two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch).
 ### Sparse Structure Selection [[code]](https://github.com/huangzehao/sparse-structure-selection) [[paper]](https://arxiv.org/pdf/1707.01213.pdf)
 ### Cascaded Projection [[paper]](https://arxiv.org/pdf/1903.04988.pdf)
 This paper treat weights as matrix projection
@@ -88,7 +88,7 @@ This paper treat weights as matrix projection
 
 ## Knowledge Distll
 ### Attention transfer [[code]](https://github.com/szagoruyko/attention-transfer) [[paper]](https://arxiv.org/abs/1612.03928)
-This repo includes both [tempretured softmax](https://arxiv.org/abs/1503.02531) & attention transfer dsitlling methods
+This repo includes both [temperatured softmax](https://arxiv.org/abs/1503.02531) & attention transfer dsitlling methods
 <br/><br/>
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
