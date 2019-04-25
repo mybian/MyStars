@@ -17,6 +17,7 @@ This inculdes fake weights/output quantization
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
 ## Facebook Researches
+### Feature Pyramid Networks [[paper]](https://arxiv.org/pdf/1612.03144.pdf)
 ### Detectron [[code]](https://github.com/facebookresearch/Detectron)
 ### Mask R-CNN [[code]](https://github.com/facebookresearch/maskrcnn-benchmark)
 ### Supervision By Registration [[code]](https://github.com/facebookresearch/supervision-by-registration) [[paper]](http://xuanyidong.com/pdf/0191.pdf)
