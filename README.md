@@ -10,8 +10,8 @@ Merge bn layers into conv/linear, which could slightly speedup models
 This inculdes fake weights/output quantization
 ### A non local operation implemented by pytorch [[code]](https://github.com/AlexHex7/Non-local_pytorch)
 ### Pytorch-Tensorboardx [[repo]](https://github.com/lanpa/tensorboardX)
-### [ShadowsocksR + BBR](https://github.com/flyzy2005/ss-fly)
-### [Pytorch weight decay optimizers](https://github.com/nachiket273/adamw_sgdw_adamwr_sgdwr)
+### ShadowsocksR + BBR[[repo]](https://github.com/flyzy2005/ss-fly)
+### Pytorch weight decay optimizers[[repo]](https://github.com/nachiket273/adamw_sgdw_adamwr_sgdwr)
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
