@@ -92,6 +92,7 @@ This paper treat weights as matrix projection
 ## Knowledge Distll
 ### Attention transfer [[code]](https://github.com/szagoruyko/attention-transfer) [[paper]](https://arxiv.org/abs/1612.03928)
 This repo includes both [temperatured softmax](https://arxiv.org/abs/1503.02531) & attention transfer dsitlling methods
+### KNOWLEDGE FLOW [[paper]](https://openreview.net/pdf?id=BJeOioA9Y7)
 <br/><br/>
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
