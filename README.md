@@ -80,6 +80,9 @@ This work reproduces several pruning methods, and conveys that weight inherit ma
 This method works well in my practice. [[blog]](https://jacobgil.github.io/deeplearning/pruning-deep-learning)[[paper]](https://arxiv.org/pdf/1611.06440.pdf)
 The code consist of two parts [[code]](https://github.com/jacobgil/pytorch-pruning) & [[code]](https://github.com/alexfjw/prunnable-layers-pytorch).
 ### Sparse Structure Selection [[code]](https://github.com/huangzehao/sparse-structure-selection) [[paper]](https://arxiv.org/pdf/1707.01213.pdf)
+### MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [[paper]](https://arxiv.org/pdf/1711.06798.pdf)
+Similar to SSS while directly optimize MACs.
+
 ### Cascaded Projection [[paper]](https://arxiv.org/pdf/1903.04988.pdf)
 This paper treat weights as matrix projection
 ### AMC: AutoML for Model Compression and Acceleration on Mobile Devices [[paper]](https://arxiv.org/pdf/1802.03494.pdf)
