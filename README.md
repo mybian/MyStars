@@ -84,6 +84,8 @@ The code consist of two parts [[code]](https://github.com/jacobgil/pytorch-pruni
 This paper treat weights as matrix projection
 ### AMC: AutoML for Model Compression and Acceleration on Mobile Devices [[paper]](https://arxiv.org/pdf/1802.03494.pdf)
 ### NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications [[paper]](https://arxiv.org/pdf/1804.03230.pdf)
+### Dynamic Channel Pruning: Feature Boosting and Suppression [[paper]](https://openreview.net/pdf?id=BJxh2j0qYm)
+Another way to use Scaling Factor by training regressor to estimate unimpoertant channels from input tensors.
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
