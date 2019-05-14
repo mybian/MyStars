@@ -84,7 +84,7 @@ The code consist of two parts [[code]](https://github.com/jacobgil/pytorch-pruni
 Similar to SSS while directly optimize MACs.
 
 ### Cascaded Projection [[paper]](https://arxiv.org/pdf/1903.04988.pdf)
-This paper treat weights as matrix projection
+This paper treat weights pruning as matrix projection
 ### AMC: AutoML for Model Compression and Acceleration on Mobile Devices [[paper]](https://arxiv.org/pdf/1802.03494.pdf)
 ### NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications [[paper]](https://arxiv.org/pdf/1804.03230.pdf)
 ### Dynamic Channel Pruning: Feature Boosting and Suppression [[paper]](https://openreview.net/pdf?id=BJxh2j0qYm)
