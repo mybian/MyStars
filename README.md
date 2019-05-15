@@ -82,6 +82,7 @@ The code consist of two parts [[code]](https://github.com/jacobgil/pytorch-pruni
 ### Sparse Structure Selection [[code]](https://github.com/huangzehao/sparse-structure-selection) [[paper]](https://arxiv.org/pdf/1707.01213.pdf)
 ### MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [[paper]](https://arxiv.org/pdf/1711.06798.pdf)
 Similar to SSS while directly optimize MACs.
+### Slimmable Networks [[repo]](https://github.com/JiahuiYu/slimmable_networks) [[paper]](https://openreview.net/pdf?id=H1gMCsAqY7)
 
 ### Cascaded Projection [[paper]](https://arxiv.org/pdf/1903.04988.pdf)
 This paper treat weights pruning as matrix projection
