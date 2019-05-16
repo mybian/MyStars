@@ -73,6 +73,15 @@ A light weighted decoder design for semantic segmentation
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
+## VAE
+### VARIATIONAL AUTOENCODER WITH ARBITRARY CONDITIONING [[paper]](https://openreview.net/pdf?id=SyxtJh0qYm)
+
+<br/><br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+
 ## Network Pruning
 ### Rethinking the Value of Network Pruning [[paper]](https://arxiv.org/pdf/1810.05270.pdf)
 This work reproduces several pruning methods, and conveys that weight inherit may be not necessary. [[code]](https://github.com/Eric-mingjie/rethinking-network-pruning)
