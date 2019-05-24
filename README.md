@@ -105,6 +105,15 @@ Another way to use Scaling Factor by training regressor to estimate unimpoertant
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
+## Quantization
+### How TensorFlow Does Quantization [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf)
+Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
+<br/><br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+
 ## Knowledge Distll
 ### Attention transfer [[code]](https://github.com/szagoruyko/attention-transfer) [[paper]](https://arxiv.org/abs/1612.03928)
 This repo includes both [temperatured softmax](https://arxiv.org/abs/1503.02531) & attention transfer dsitlling methods
