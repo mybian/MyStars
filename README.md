@@ -136,7 +136,19 @@ This repo includes both [temperatured softmax](https://arxiv.org/abs/1503.02531)
 ## CV by Classifier
 ### Learning Perceptually-Aligned Representations via Adversarial Robustness [[paper]](https://arxiv.org/pdf/1906.00945.pdf)
 ### Computer Vision with a Single (Robust) Classifier [[paper]](https://arxiv.org/pdf/1906.09453.pdf)
+<br/><br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
+## NLP Corresponding
+### Neural Machine Reading Comprehension: Methods and Trends [[paper]](https://arxiv.org/pdf/1907.01118.pdf)
+<br/><br/>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 
 ## Self Implmentations
 ### RefineNet Decoder
