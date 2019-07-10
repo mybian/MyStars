@@ -12,6 +12,7 @@ This inculdes fake weights/output quantization
 ### Pytorch-Tensorboardx [[repo]](https://github.com/lanpa/tensorboardX)
 ### ShadowsocksR + BBR[[repo]](https://github.com/flyzy2005/ss-fly)
 ### Pytorch weight decay optimizers[[repo]](https://github.com/nachiket273/adamw_sgdw_adamwr_sgdwr)
+### Reproducible image denoising state of the art [[repo]](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 <br/><br/>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+)
